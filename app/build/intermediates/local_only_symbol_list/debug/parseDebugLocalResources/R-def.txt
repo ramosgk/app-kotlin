@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+id btnDelete
+id checkCompleted
+id recyclerView
+id textDescription
+id textTitle
+layout activity_main
+layout item_task
+string add_task
+string app_name
+string completed
+string delete
+string description
+string mark_completed
+string pending
+string save
+string status
+string task_details
+string title
