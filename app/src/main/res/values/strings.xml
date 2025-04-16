@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo List Offline</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="save">Salvar</string>
+    <string name="delete">Excluir</string>
+    <string name="completed">Concluída</string>
+    <string name="pending">Pendente</string>
+    <string name="task_details">Detalhes da Tarefa</string>
+    <string name="mark_completed">Marcar como Concluída</string>
+    <string name="title">Título</string>
+    <string name="description">Descrição</string>
+    <string name="status">Status</string>
+</resources>
